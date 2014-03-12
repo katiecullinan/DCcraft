@@ -11,9 +11,10 @@
 }
 
 .logo {
-float:left;
+
 
 }
+
 
 .button {
 	margin-right: .5em;
@@ -21,9 +22,24 @@ float:left;
 	float: right;
 }
 
+.events{
+	width: 80%;
+	margin-top: 2em;
+	margin-right: auto;
+	margin-left:auto;
+	margin-bottom: .5em;
+	display: block;
+	
+	
+}
+
+.container {
+	width:100%;
+}
+
 .weaving {
 	width: 25%;
-	margin-top: 10em;
+	margin-top: 1em;
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
@@ -33,10 +49,30 @@ float:left;
 
 .artisan {
 	width: 25%;
-	margin-top: 10em;
+	margin-top: 1em;
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
 	padding: 1em;
-	float:left:
+	float:left;
 }
+.paper {
+	width: 25%;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+	padding: 1em;
+	float:left;
+}
+
+.jewelry {
+	width: 25%;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+	padding: 1em;
+	float:left;
+}
+
