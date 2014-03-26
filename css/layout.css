@@ -15,9 +15,10 @@
 }
 
 .buttons {
-	margin-right: 1em;
-	margin-left: 1em;
+	margin-right: 5%;
+	
 	float: right;
+	max-width: 1000px;
 }
 
 .tree {
