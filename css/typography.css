@@ -1,7 +1,100 @@
 
 body {
-	font-family: Georgia, "Times New Roman",Times,serif;
-	font-size: 16px;
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
+	font-size: 14px;
 	line-height: 1.5em;
 	color: #222;
 }
+h1 {
+	font-family: 'Open Sans', Futura, sans-serif;
+	font-weight: 200;
+	font-size: 30px;
+	line-height: 32px;
+	color: #555;
+	}
+	
+	h2 {
+	font-family: 'Open Sans', Futura, sans-serif;
+	font-weight: 200;
+	font-size: 22px;
+	line-height: 26px;
+	color: #555;
+	}
+	
+	h3 {
+	font-family: 'Open Sans', Futura, sans-serif;
+	font-weight: 200;
+	font-size: 18px;
+	line-height: 26px;
+	color: #555;
+	}
+
+.contact {
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
+	
+	font-size: 10px;
+	line-height: 1em;
+	text-align: center;
+	}
+.disclaimer {
+
+	font-size: 10px;
+	line-height: 1em;
+	text-align: center;
+	}
+	
+.small {
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
+	color: #303030;
+	font-size: 10x;
+}
+
+ 
+.text {
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
+	color: #303030;
+	font-size: 14px;
+}
+
+
+
+.date {
+ color: #000000;
+ font-size: 20px;
+ line-height: 28px;
+ font-family: 'Open Sans', Futura, sans-serif;
+ font-weight: 200;
+ }
+ 
+
+ 
+ .abouthead {
+	font-family: 'Open Sans', Futura, sans-serif;
+	font-weight: 200;
+	font-size: 40px;
+	line-height: 46px;
+	color: #555555;
+}
+ 
+ .about {
+ margin-top: 5%;
+ }
+ 
+
+ 
+ .description {
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
+	color: #303030;
+	font-size: 14px;
+
+}
+
+.events h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+	font-size: 18px;
+}
+
+
+
+

@@ -23,6 +23,10 @@
 	max-width: 1000px;
 }
 
+li {
+	margin-right: 10px;
+	display: inline;
+
 .events {
 	width: 80%;
 	margin-top: 2em;
