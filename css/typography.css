@@ -30,12 +30,18 @@ h1 {
 	}
 
 .contact {
-	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
 	
+	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
 	font-size: 10px;
 	line-height: 1em;
 	text-align: center;
 	}
+.name {
+	text-decoration: none;
+	color: #555;
+	}
+		
+	
 .disclaimer {
 
 	font-size: 10px;
@@ -54,6 +60,7 @@ h1 {
 	font-family: "Palatino Linotype", Georgia, "Times New Roman",Times,serif;
 	color: #303030;
 	font-size: 14px;
+	line-height: 1.5em;
 }
 
 
@@ -61,7 +68,7 @@ h1 {
 .date {
  color: #000000;
  font-size: 20px;
- line-height: 28px;
+ line-height: 30px;
  font-family: 'Open Sans', Futura, sans-serif;
  font-weight: 200;
  }
